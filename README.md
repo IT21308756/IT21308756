@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=15&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
